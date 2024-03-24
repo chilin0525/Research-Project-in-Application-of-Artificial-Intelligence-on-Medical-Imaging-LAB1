@@ -1,0 +1,202 @@
+2024-03-24 18:41:21,548 - INFO - trainer - Training
+2024-03-24 18:41:35,202 - INFO - trainer - train loss: 0.39075960945792315, train acc: 81.77% (4265/5216), lr:0.001, train f1: 0.8865561254920673
+2024-03-24 18:41:35,202 - INFO - trainer - Validation
+2024-03-24 18:41:35,397 - INFO - trainer - val loss: 0.7105432152748108, val acc: 62.50% (10/16), val f1 score: 0.7272727272727273
+2024-03-24 18:41:35,398 - INFO - trainer - Training
+2024-03-24 18:41:48,120 - INFO - trainer - train loss: 0.2225802762479317, train acc: 93.87% (4896/5216), lr:0.001, train f1: 0.9591315453384419
+2024-03-24 18:41:48,120 - INFO - trainer - Validation
+2024-03-24 18:41:48,306 - INFO - trainer - val loss: 0.7917918562889099, val acc: 56.25% (9/16), val f1 score: 0.6956521739130436
+2024-03-24 18:41:48,306 - INFO - trainer - Training
+2024-03-24 18:42:01,036 - INFO - trainer - train loss: 0.16735230349912877, train acc: 95.26% (4969/5216), lr:0.001, train f1: 0.9681660007732956
+2024-03-24 18:42:01,036 - INFO - trainer - Validation
+2024-03-24 18:42:01,237 - INFO - trainer - val loss: 0.8078075051307678, val acc: 62.50% (10/16), val f1 score: 0.7272727272727273
+2024-03-24 18:42:01,237 - INFO - trainer - Training
+2024-03-24 18:42:13,940 - INFO - trainer - train loss: 0.1407489056085668, train acc: 95.90% (5002/5216), lr:0.001, train f1: 0.9724013412432292
+2024-03-24 18:42:13,940 - INFO - trainer - Validation
+2024-03-24 18:42:14,134 - INFO - trainer - val loss: 0.7129527926445007, val acc: 62.50% (10/16), val f1 score: 0.7272727272727273
+2024-03-24 18:42:14,134 - INFO - trainer - Training
+2024-03-24 18:42:26,858 - INFO - trainer - train loss: 0.11929530486827944, train acc: 96.43% (5030/5216), lr:0.001, train f1: 0.9759441282979824
+2024-03-24 18:42:26,858 - INFO - trainer - Validation
+2024-03-24 18:42:27,042 - INFO - trainer - val loss: 0.7817255258560181, val acc: 62.50% (10/16), val f1 score: 0.7272727272727273
+2024-03-24 18:42:27,042 - INFO - trainer - Training
+2024-03-24 18:42:39,737 - INFO - trainer - train loss: 0.10597341312322675, train acc: 96.88% (5053/5216), lr:0.001, train f1: 0.9789704554251065
+2024-03-24 18:42:39,737 - INFO - trainer - Validation
+2024-03-24 18:42:39,945 - INFO - trainer - val loss: 0.7261353135108948, val acc: 62.50% (10/16), val f1 score: 0.7272727272727273
+2024-03-24 18:42:39,946 - INFO - trainer - Training
+2024-03-24 18:42:52,687 - INFO - trainer - train loss: 0.09587083693321158, train acc: 97.11% (5065/5216), lr:0.001, train f1: 0.9805236682574489
+2024-03-24 18:42:52,688 - INFO - trainer - Validation
+2024-03-24 18:42:52,875 - INFO - trainer - val loss: 0.6865823864936829, val acc: 62.50% (10/16), val f1 score: 0.7272727272727273
+2024-03-24 18:42:52,876 - INFO - trainer - Training
+2024-03-24 18:43:05,623 - INFO - trainer - train loss: 0.08971748110361216, train acc: 97.18% (5069/5216), lr:0.001, train f1: 0.981059141863162
+2024-03-24 18:43:05,623 - INFO - trainer - Validation
+2024-03-24 18:43:05,826 - INFO - trainer - val loss: 0.617145299911499, val acc: 68.75% (11/16), val f1 score: 0.761904761904762
+2024-03-24 18:43:05,826 - INFO - trainer - Training
+2024-03-24 18:43:18,567 - INFO - trainer - train loss: 0.07860358756762452, train acc: 97.58% (5090/5216), lr:0.001, train f1: 0.9837587006960558
+2024-03-24 18:43:18,568 - INFO - trainer - Validation
+2024-03-24 18:43:18,753 - INFO - trainer - val loss: 0.582338809967041, val acc: 68.75% (11/16), val f1 score: 0.761904761904762
+2024-03-24 18:43:18,753 - INFO - trainer - Training
+2024-03-24 18:43:31,528 - INFO - trainer - train loss: 0.07487617796514093, train acc: 97.72% (5097/5216), lr:0.001, train f1: 0.9846669243654169
+2024-03-24 18:43:31,528 - INFO - trainer - Validation
+2024-03-24 18:43:31,701 - INFO - trainer - val loss: 0.5785520076751709, val acc: 68.75% (11/16), val f1 score: 0.761904761904762
+2024-03-24 18:43:31,701 - INFO - trainer - Training
+2024-03-24 18:43:44,399 - INFO - trainer - train loss: 0.06732760412936531, train acc: 97.99% (5111/5216), lr:0.001, train f1: 0.9864568554108087
+2024-03-24 18:43:44,399 - INFO - trainer - Validation
+2024-03-24 18:43:44,584 - INFO - trainer - val loss: 0.45500922203063965, val acc: 81.25% (13/16), val f1 score: 0.8421052631578948
+2024-03-24 18:43:44,585 - INFO - trainer - Training
+2024-03-24 18:43:57,313 - INFO - trainer - train loss: 0.06416618126648956, train acc: 98.18% (5121/5216), lr:0.001, train f1: 0.9877498388136687
+2024-03-24 18:43:57,313 - INFO - trainer - Validation
+2024-03-24 18:43:57,496 - INFO - trainer - val loss: 0.5555203557014465, val acc: 68.75% (11/16), val f1 score: 0.761904761904762
+2024-03-24 18:43:57,496 - INFO - trainer - Training
+2024-03-24 18:44:10,210 - INFO - trainer - train loss: 0.0592293769984347, train acc: 98.29% (5127/5216), lr:0.001, train f1: 0.9885294496713494
+2024-03-24 18:44:10,211 - INFO - trainer - Validation
+2024-03-24 18:44:10,402 - INFO - trainer - val loss: 0.4550364315509796, val acc: 75.00% (12/16), val f1 score: 0.8
+2024-03-24 18:44:10,402 - INFO - trainer - Training
+2024-03-24 18:44:23,166 - INFO - trainer - train loss: 0.05395498524260957, train acc: 98.62% (5144/5216), lr:0.001, train f1: 0.9907192575406033
+2024-03-24 18:44:23,167 - INFO - trainer - Validation
+2024-03-24 18:44:23,365 - INFO - trainer - val loss: 0.4336153566837311, val acc: 81.25% (13/16), val f1 score: 0.8421052631578948
+2024-03-24 18:44:23,366 - INFO - trainer - Training
+2024-03-24 18:44:36,083 - INFO - trainer - train loss: 0.048410759875323714, train acc: 98.68% (5147/5216), lr:0.001, train f1: 0.9910933264489479
+2024-03-24 18:44:36,083 - INFO - trainer - Validation
+2024-03-24 18:44:36,280 - INFO - trainer - val loss: 0.44380977749824524, val acc: 75.00% (12/16), val f1 score: 0.8
+2024-03-24 18:44:36,281 - INFO - trainer - Training
+2024-03-24 18:44:49,017 - INFO - trainer - train loss: 0.04728879307101413, train acc: 98.58% (5142/5216), lr:0.001, train f1: 0.9904614591389533
+2024-03-24 18:44:49,018 - INFO - trainer - Validation
+2024-03-24 18:44:49,223 - INFO - trainer - val loss: 0.3798866271972656, val acc: 81.25% (13/16), val f1 score: 0.8421052631578948
+2024-03-24 18:44:49,223 - INFO - trainer - Training
+2024-03-24 18:45:01,942 - INFO - trainer - train loss: 0.04217552325529296, train acc: 98.91% (5159/5216), lr:0.001, train f1: 0.9926499032882012
+2024-03-24 18:45:01,943 - INFO - trainer - Validation
+2024-03-24 18:45:02,118 - INFO - trainer - val loss: 0.3905806243419647, val acc: 81.25% (13/16), val f1 score: 0.8421052631578948
+2024-03-24 18:45:02,118 - INFO - trainer - Training
+2024-03-24 18:45:14,885 - INFO - trainer - train loss: 0.04312902323265628, train acc: 98.64% (5145/5216), lr:0.001, train f1: 0.9908375274228932
+2024-03-24 18:45:14,885 - INFO - trainer - Validation
+2024-03-24 18:45:15,077 - INFO - trainer - val loss: 0.3745017349720001, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:45:15,078 - INFO - trainer - Training
+2024-03-24 18:45:27,810 - INFO - trainer - train loss: 0.04267951675758856, train acc: 98.79% (5153/5216), lr:0.001, train f1: 0.9918762088974856
+2024-03-24 18:45:27,810 - INFO - trainer - Validation
+2024-03-24 18:45:27,997 - INFO - trainer - val loss: 0.3478694558143616, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:45:27,997 - INFO - trainer - Training
+2024-03-24 18:45:40,758 - INFO - trainer - train loss: 0.0348060889192289, train acc: 99.10% (5169/5216), lr:0.001, train f1: 0.9939409565553694
+2024-03-24 18:45:40,758 - INFO - trainer - Validation
+2024-03-24 18:45:40,955 - INFO - trainer - val loss: 0.35720738768577576, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:45:40,956 - INFO - trainer - Training
+2024-03-24 18:45:53,690 - INFO - trainer - train loss: 0.037694832287365344, train acc: 98.91% (5159/5216), lr:0.001, train f1: 0.9926461101793317
+2024-03-24 18:45:53,690 - INFO - trainer - Validation
+2024-03-24 18:45:53,872 - INFO - trainer - val loss: 0.3013136386871338, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:45:53,872 - INFO - trainer - Training
+2024-03-24 18:46:06,625 - INFO - trainer - train loss: 0.03203617572420981, train acc: 99.25% (5177/5216), lr:0.001, train f1: 0.9949709864603481
+2024-03-24 18:46:06,625 - INFO - trainer - Validation
+2024-03-24 18:46:06,812 - INFO - trainer - val loss: 0.27737024426460266, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:46:06,813 - INFO - trainer - Training
+2024-03-24 18:46:19,546 - INFO - trainer - train loss: 0.03266216582823091, train acc: 99.12% (5170/5216), lr:0.001, train f1: 0.9940660474716203
+2024-03-24 18:46:19,546 - INFO - trainer - Validation
+2024-03-24 18:46:19,733 - INFO - trainer - val loss: 0.3123829662799835, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:46:19,734 - INFO - trainer - Training
+2024-03-24 18:46:32,441 - INFO - trainer - train loss: 0.03196172643362022, train acc: 99.06% (5167/5216), lr:0.001, train f1: 0.9936847531898442
+2024-03-24 18:46:32,441 - INFO - trainer - Validation
+2024-03-24 18:46:32,645 - INFO - trainer - val loss: 0.2624970078468323, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:46:32,645 - INFO - trainer - Training
+2024-03-24 18:46:45,395 - INFO - trainer - train loss: 0.029259027050035757, train acc: 99.37% (5183/5216), lr:0.001, train f1: 0.9957413859852885
+2024-03-24 18:46:45,395 - INFO - trainer - Validation
+2024-03-24 18:46:45,574 - INFO - trainer - val loss: 0.29533931612968445, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:46:45,574 - INFO - trainer - Training
+2024-03-24 18:46:58,339 - INFO - trainer - train loss: 0.027807908257605825, train acc: 99.25% (5177/5216), lr:0.001, train f1: 0.9949722830991363
+2024-03-24 18:46:58,340 - INFO - trainer - Validation
+2024-03-24 18:46:58,536 - INFO - trainer - val loss: 0.21755793690681458, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:46:58,536 - INFO - trainer - Training
+2024-03-24 18:47:11,255 - INFO - trainer - train loss: 0.02731098816730082, train acc: 99.37% (5183/5216), lr:0.001, train f1: 0.9957446808510639
+2024-03-24 18:47:11,255 - INFO - trainer - Validation
+2024-03-24 18:47:11,443 - INFO - trainer - val loss: 0.2971111834049225, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:47:11,443 - INFO - trainer - Training
+2024-03-24 18:47:24,112 - INFO - trainer - train loss: 0.026267372912204847, train acc: 99.35% (5182/5216), lr:0.001, train f1: 0.9956162970603405
+2024-03-24 18:47:24,112 - INFO - trainer - Validation
+2024-03-24 18:47:24,302 - INFO - trainer - val loss: 0.2258976548910141, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:47:24,302 - INFO - trainer - Training
+2024-03-24 18:47:36,997 - INFO - trainer - train loss: 0.025708530870516125, train acc: 99.29% (5179/5216), lr:0.001, train f1: 0.9952276538114279
+2024-03-24 18:47:36,998 - INFO - trainer - Validation
+2024-03-24 18:47:37,196 - INFO - trainer - val loss: 0.2202652543783188, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:47:37,196 - INFO - trainer - Training
+2024-03-24 18:47:49,899 - INFO - trainer - train loss: 0.024795257838488353, train acc: 99.39% (5184/5216), lr:0.001, train f1: 0.9958709677419355
+2024-03-24 18:47:49,899 - INFO - trainer - Validation
+2024-03-24 18:47:50,082 - INFO - trainer - val loss: 0.2331889271736145, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:47:50,083 - INFO - trainer - Training
+2024-03-24 18:48:02,868 - INFO - trainer - train loss: 0.022549404456030306, train acc: 99.48% (5189/5216), lr:0.001, train f1: 0.9965165785059992
+2024-03-24 18:48:02,869 - INFO - trainer - Validation
+2024-03-24 18:48:03,058 - INFO - trainer - val loss: 0.24450328946113586, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:48:03,058 - INFO - trainer - Training
+2024-03-24 18:48:15,780 - INFO - trainer - train loss: 0.021851277455869244, train acc: 99.56% (5193/5216), lr:0.001, train f1: 0.99703493618667
+2024-03-24 18:48:15,780 - INFO - trainer - Validation
+2024-03-24 18:48:15,968 - INFO - trainer - val loss: 0.2011910229921341, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:48:15,969 - INFO - trainer - Training
+2024-03-24 18:48:28,717 - INFO - trainer - train loss: 0.020502575343792757, train acc: 99.54% (5192/5216), lr:0.001, train f1: 0.9969024264326278
+2024-03-24 18:48:28,718 - INFO - trainer - Validation
+2024-03-24 18:48:28,906 - INFO - trainer - val loss: 0.2053186148405075, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:48:28,906 - INFO - trainer - Training
+2024-03-24 18:48:41,626 - INFO - trainer - train loss: 0.019574843173869316, train acc: 99.62% (5196/5216), lr:0.001, train f1: 0.9974193548387097
+2024-03-24 18:48:41,627 - INFO - trainer - Validation
+2024-03-24 18:48:41,823 - INFO - trainer - val loss: 0.24037039279937744, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:48:41,823 - INFO - trainer - Training
+2024-03-24 18:48:54,520 - INFO - trainer - train loss: 0.019530696890930215, train acc: 99.65% (5198/5216), lr:0.001, train f1: 0.9976774193548387
+2024-03-24 18:48:54,520 - INFO - trainer - Validation
+2024-03-24 18:48:54,736 - INFO - trainer - val loss: 0.22107702493667603, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:48:54,737 - INFO - trainer - Training
+2024-03-24 18:49:07,467 - INFO - trainer - train loss: 0.017911612175450457, train acc: 99.69% (5200/5216), lr:0.001, train f1: 0.9979344177640072
+2024-03-24 18:49:07,467 - INFO - trainer - Validation
+2024-03-24 18:49:07,656 - INFO - trainer - val loss: 0.16537730395793915, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:49:07,656 - INFO - trainer - Training
+2024-03-24 18:49:20,327 - INFO - trainer - train loss: 0.017748008553143138, train acc: 99.64% (5197/5216), lr:0.001, train f1: 0.9975499677627336
+2024-03-24 18:49:20,328 - INFO - trainer - Validation
+2024-03-24 18:49:20,529 - INFO - trainer - val loss: 0.214161679148674, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:49:20,529 - INFO - trainer - Training
+2024-03-24 18:49:33,252 - INFO - trainer - train loss: 0.01652729543062245, train acc: 99.73% (5202/5216), lr:0.001, train f1: 0.9981944802682486
+2024-03-24 18:49:33,252 - INFO - trainer - Validation
+2024-03-24 18:49:33,456 - INFO - trainer - val loss: 0.146653950214386, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:49:33,457 - INFO - trainer - Training
+2024-03-24 18:49:46,180 - INFO - trainer - train loss: 0.017653828889994724, train acc: 99.58% (5194/5216), lr:0.001, train f1: 0.9971620227038185
+2024-03-24 18:49:46,180 - INFO - trainer - Validation
+2024-03-24 18:49:46,364 - INFO - trainer - val loss: 0.16448268294334412, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:49:46,364 - INFO - trainer - Training
+2024-03-24 18:49:59,087 - INFO - trainer - train loss: 0.016439151856480393, train acc: 99.67% (5199/5216), lr:0.001, train f1: 0.9978073003998451
+2024-03-24 18:49:59,087 - INFO - trainer - Validation
+2024-03-24 18:49:59,280 - INFO - trainer - val loss: 0.16817094385623932, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:49:59,281 - INFO - trainer - Training
+2024-03-24 18:50:12,027 - INFO - trainer - train loss: 0.014777461083878467, train acc: 99.81% (5206/5216), lr:0.001, train f1: 0.9987103430487492
+2024-03-24 18:50:12,028 - INFO - trainer - Validation
+2024-03-24 18:50:12,222 - INFO - trainer - val loss: 0.16595786809921265, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:50:12,223 - INFO - trainer - Training
+2024-03-24 18:50:24,969 - INFO - trainer - train loss: 0.013835523257645347, train acc: 99.81% (5206/5216), lr:0.001, train f1: 0.9987096774193548
+2024-03-24 18:50:24,969 - INFO - trainer - Validation
+2024-03-24 18:50:25,149 - INFO - trainer - val loss: 0.16232731938362122, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:50:25,149 - INFO - trainer - Training
+2024-03-24 18:50:37,846 - INFO - trainer - train loss: 0.013249421018039489, train acc: 99.77% (5204/5216), lr:0.001, train f1: 0.9984524116584989
+2024-03-24 18:50:37,846 - INFO - trainer - Validation
+2024-03-24 18:50:38,018 - INFO - trainer - val loss: 0.133744478225708, val acc: 93.75% (15/16), val f1 score: 0.9411764705882353
+2024-03-24 18:50:38,018 - INFO - trainer - Training
+2024-03-24 18:50:50,751 - INFO - trainer - train loss: 0.014850279398648658, train acc: 99.73% (5202/5216), lr:0.001, train f1: 0.9981930820856996
+2024-03-24 18:50:50,751 - INFO - trainer - Validation
+2024-03-24 18:50:50,935 - INFO - trainer - val loss: 0.11692013591527939, val acc: 93.75% (15/16), val f1 score: 0.9411764705882353
+2024-03-24 18:50:50,935 - INFO - trainer - Training
+2024-03-24 18:51:03,674 - INFO - trainer - train loss: 0.014926150421293952, train acc: 99.69% (5200/5216), lr:0.001, train f1: 0.9979360165118679
+2024-03-24 18:51:03,674 - INFO - trainer - Validation
+2024-03-24 18:51:03,860 - INFO - trainer - val loss: 0.16988064348697662, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:51:03,860 - INFO - trainer - Training
+2024-03-24 18:51:16,568 - INFO - trainer - train loss: 0.012165382663469488, train acc: 99.88% (5210/5216), lr:0.001, train f1: 0.999225606608157
+2024-03-24 18:51:16,568 - INFO - trainer - Validation
+2024-03-24 18:51:16,758 - INFO - trainer - val loss: 0.17132151126861572, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:51:16,758 - INFO - trainer - Training
+2024-03-24 18:51:29,482 - INFO - trainer - train loss: 0.013407155439802787, train acc: 99.83% (5207/5216), lr:0.001, train f1: 0.9988391590352121
+2024-03-24 18:51:29,482 - INFO - trainer - Validation
+2024-03-24 18:51:29,664 - INFO - trainer - val loss: 0.1533270925283432, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:51:29,665 - INFO - trainer - Training
+2024-03-24 18:51:42,403 - INFO - trainer - train loss: 0.012595042208686652, train acc: 99.81% (5206/5216), lr:0.001, train f1: 0.9987100103199174
+2024-03-24 18:51:42,404 - INFO - trainer - Validation
+2024-03-24 18:51:42,588 - INFO - trainer - val loss: 0.15122413635253906, val acc: 87.50% (14/16), val f1 score: 0.888888888888889
+2024-03-24 18:51:42,588 - INFO - trainer - Training
+2024-03-24 18:51:55,281 - INFO - trainer - train loss: 0.01115364640689932, train acc: 99.94% (5213/5216), lr:0.001, train f1: 0.9996127533238672
+2024-03-24 18:51:55,281 - INFO - trainer - Validation
+2024-03-24 18:51:55,462 - INFO - trainer - val loss: 0.1319863647222519, val acc: 93.75% (15/16), val f1 score: 0.9411764705882353
+2024-03-24 18:51:55,463 - INFO - trainer - Training
+2024-03-24 18:52:08,159 - INFO - trainer - train loss: 0.011571357830245866, train acc: 99.87% (5209/5216), lr:0.001, train f1: 0.9990966576332431
+2024-03-24 18:52:08,159 - INFO - trainer - Validation
+2024-03-24 18:52:08,331 - INFO - trainer - val loss: 0.11556864529848099, val acc: 100.00% (16/16), val f1 score: 1.0
+2024-03-24 18:52:08,652 - INFO - trainer - testing
+2024-03-24 18:52:09,686 - INFO - trainer - testing acc: 78.84615384615384% (492/624), f1 score: 0.8552631578947367
