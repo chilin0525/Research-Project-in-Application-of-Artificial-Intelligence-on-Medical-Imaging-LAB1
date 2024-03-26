@@ -25,10 +25,14 @@ args = {
     "img_size": 256,
     "device": 0,
     "num_workers": 8,
-    "epochs": 50,
-    "batch_size": 64,
-    "network": "resnet50",
+    "epochs": 30,
+    "batch_size": 128,
+    "network": "resnet18",
     "lr": 0.001,
+
+    "is_RandomRotation": True,
+    "is_RandomHorizontalFlip": True,
+    "is_GaussianBlur": True,
 }
 
 pneumonia_trainer = PneumoniaTrainer(**args)

@@ -29,7 +29,10 @@ class PneumoniaTrainer():
         epochs: int = 100,
         lr: float = 0.001,
         batch_size: int = 8,
-        network: str = "resnet50"
+        network: str = "resnet50",
+        is_RandomRotation: bool = False,
+        is_RandomHorizontalFlip: bool = False,
+        is_GaussianBlur: bool = False,
     ):
         self.logger = setup_custom_logger(__name__, exp_name)
         self.data_root_dir = data_root_dir
@@ -40,6 +43,8 @@ class PneumoniaTrainer():
         self.lr = lr
         self.batch_size = batch_size
         self.network = network
+        self.is_RandomRotation = is_RandomRotation
+        self.is_RandomHorizontalFlip = is_RandomHorizontalFlip
         
         if self.device != 'cpu' and torch.cuda.is_available():
             self.device = torch.device(f"cuda:{self.device}")
@@ -119,6 +124,8 @@ class PneumoniaTrainer():
             "batch_size": self.batch_size,
             "is_train": True,
             "num_workers": 4,
+            "is_RandomRotation": self.is_RandomRotation,
+            "is_RandomHorizontalFlip": self.is_RandomHorizontalFlip,
         })
         
         val_loader = get_loader(**{
@@ -142,7 +149,7 @@ class PneumoniaTrainer():
             # training
             ###############
             self.model.train()
-            self.logger.info('Training')
+            self.logger.info(f'Training, epoch: {epoch}')
             train_running_loss = 0.0
             train_running_correct = 0
             counter = 0
@@ -229,6 +236,10 @@ class PneumoniaTrainer():
         self.plot_trend(self.valid_loss, "val_loss", "val_loss")
         self.plot_trend(self.valid_acc, "val_acc", "val_acc")
         self.plot_trend(self.valid_f1, "val_f1", "val_f1")
+
+        # save model to inference result folder
+        self.model_path = os.path.join(inference_result_folder, "model.pt")
+        torch.save(self.model, self.model_path)
     
     def testing(self):
         self.logger.info('testing')
