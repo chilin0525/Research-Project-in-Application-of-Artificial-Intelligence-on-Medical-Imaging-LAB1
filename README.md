@@ -53,7 +53,7 @@ You should put training, validation and testing file from Kaggle as following ex
 ## training
 
 * please check paramter in main.py
-* 
+
 ```
 python3 main.py
 ```
