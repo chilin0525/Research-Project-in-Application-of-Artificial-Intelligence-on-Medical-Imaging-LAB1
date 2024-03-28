@@ -1,0 +1,262 @@
+2024-03-27 17:41:16,051 - INFO - trainer - Training, epoch: 0/50
+2024-03-27 17:41:39,050 - INFO - trainer - train loss: 0.5797758558217216, train acc: 75.84% (2439/3216), lr:0.001, train f1: 0.8080059303187547
+2024-03-27 17:41:39,050 - INFO - trainer - Validation
+2024-03-27 17:41:44,004 - INFO - trainer - val loss: 0.40255381911993027, val acc: 93.11% (1877/2016), val f1 score: 0.964202935874324
+2024-03-27 17:41:44,004 - INFO - trainer - History best: 0.00 < 93.11, saving model.
+2024-03-27 17:41:44,005 - INFO - trainer - Saving model.pt to InferenceResult/2024-03-27 17:41:15/best.pt
+2024-03-27 17:41:44,077 - INFO - trainer - Training, epoch: 1/50
+2024-03-27 17:42:05,835 - INFO - trainer - train loss: 0.39426544483970194, train acc: 90.24% (2902/3216), lr:0.001, train f1: 0.9186949766960125
+2024-03-27 17:42:05,836 - INFO - trainer - Validation
+2024-03-27 17:42:10,781 - INFO - trainer - val loss: 0.39095306769013405, val acc: 85.32% (1720/2016), val f1 score: 0.9204301075268817
+2024-03-27 17:42:10,781 - INFO - trainer - Do not update 1 epoch
+2024-03-27 17:42:10,781 - INFO - trainer - Training, epoch: 2/50
+2024-03-27 17:42:32,684 - INFO - trainer - train loss: 0.28713492961490855, train acc: 92.91% (2988/3216), lr:0.001, train f1: 0.9389394750937333
+2024-03-27 17:42:32,684 - INFO - trainer - Validation
+2024-03-27 17:42:37,629 - INFO - trainer - val loss: 0.30667274026200175, val acc: 88.05% (1775/2016), val f1 score: 0.9361927455652634
+2024-03-27 17:42:37,629 - INFO - trainer - Do not update 2 epoch
+2024-03-27 17:42:37,629 - INFO - trainer - Training, epoch: 3/50
+2024-03-27 17:42:59,406 - INFO - trainer - train loss: 0.23470673900024563, train acc: 93.35% (3002/3216), lr:0.001, train f1: 0.9429637526652452
+2024-03-27 17:42:59,407 - INFO - trainer - Validation
+2024-03-27 17:43:04,346 - INFO - trainer - val loss: 0.3153387806378305, val acc: 87.30% (1760/2016), val f1 score: 0.9319510898458268
+2024-03-27 17:43:04,346 - INFO - trainer - Do not update 3 epoch
+2024-03-27 17:43:04,347 - INFO - trainer - Training, epoch: 4/50
+2024-03-27 17:43:26,168 - INFO - trainer - train loss: 0.1973112619975034, train acc: 94.06% (3025/3216), lr:0.001, train f1: 0.9485313931554836
+2024-03-27 17:43:26,168 - INFO - trainer - Validation
+2024-03-27 17:43:31,121 - INFO - trainer - val loss: 0.24045351007953286, val acc: 89.78% (1810/2016), val f1 score: 0.9459884635553226
+2024-03-27 17:43:31,121 - INFO - trainer - Do not update 4 epoch
+2024-03-27 17:43:31,121 - INFO - trainer - Training, epoch: 5/50
+2024-03-27 17:43:52,948 - INFO - trainer - train loss: 0.17599202970079347, train acc: 94.62% (3043/3216), lr:0.001, train f1: 0.953581969412396
+2024-03-27 17:43:52,948 - INFO - trainer - Validation
+2024-03-27 17:43:57,925 - INFO - trainer - val loss: 0.23368101147934794, val acc: 90.13% (1817/2016), val f1 score: 0.9478921183555904
+2024-03-27 17:43:57,925 - INFO - trainer - Do not update 5 epoch
+2024-03-27 17:43:57,926 - INFO - trainer - Training, epoch: 6/50
+2024-03-27 17:44:19,814 - INFO - trainer - train loss: 0.16239592842027253, train acc: 94.81% (3049/3216), lr:0.001, train f1: 0.9550471063257067
+2024-03-27 17:44:19,814 - INFO - trainer - Validation
+2024-03-27 17:44:24,785 - INFO - trainer - val loss: 0.1828758215997368, val acc: 92.16% (1858/2016), val f1 score: 0.9591097308488612
+2024-03-27 17:44:24,785 - INFO - trainer - Do not update 6 epoch
+2024-03-27 17:44:24,785 - INFO - trainer - Training, epoch: 7/50
+2024-03-27 17:44:46,800 - INFO - trainer - train loss: 0.14845913984611922, train acc: 95.12% (3059/3216), lr:0.001, train f1: 0.9580774365821095
+2024-03-27 17:44:46,801 - INFO - trainer - Validation
+2024-03-27 17:44:51,748 - INFO - trainer - val loss: 0.18645896948873997, val acc: 92.06% (1856/2016), val f1 score: 0.9585492227979275
+2024-03-27 17:44:51,748 - INFO - trainer - Do not update 7 epoch
+2024-03-27 17:44:51,748 - INFO - trainer - Training, epoch: 8/50
+2024-03-27 17:45:13,461 - INFO - trainer - train loss: 0.1366209913702572, train acc: 95.58% (3074/3216), lr:0.001, train f1: 0.9619506966773848
+2024-03-27 17:45:13,462 - INFO - trainer - Validation
+2024-03-27 17:45:18,421 - INFO - trainer - val loss: 0.16279994091019034, val acc: 92.91% (1873/2016), val f1 score: 0.9631538263334193
+2024-03-27 17:45:18,421 - INFO - trainer - Do not update 8 epoch
+2024-03-27 17:45:18,422 - INFO - trainer - Training, epoch: 9/50
+2024-03-27 17:45:40,146 - INFO - trainer - train loss: 0.1257475563416294, train acc: 96.08% (3090/3216), lr:0.001, train f1: 0.9662379421221864
+2024-03-27 17:45:40,147 - INFO - trainer - Validation
+2024-03-27 17:45:45,102 - INFO - trainer - val loss: 0.1656949883326888, val acc: 92.81% (1871/2016), val f1 score: 0.962561321972631
+2024-03-27 17:45:45,102 - INFO - trainer - Do not update 9 epoch
+2024-03-27 17:45:45,103 - INFO - trainer - Training, epoch: 10/50
+2024-03-27 17:46:06,799 - INFO - trainer - train loss: 0.12201166014168777, train acc: 95.58% (3074/3216), lr:0.001, train f1: 0.9620523784072688
+2024-03-27 17:46:06,799 - INFO - trainer - Validation
+2024-03-27 17:46:11,761 - INFO - trainer - val loss: 0.1727801440283656, val acc: 92.81% (1871/2016), val f1 score: 0.962561321972631
+2024-03-27 17:46:11,761 - INFO - trainer - Do not update 10 epoch
+2024-03-27 17:46:11,761 - INFO - trainer - Training, epoch: 11/50
+2024-03-27 17:46:33,572 - INFO - trainer - train loss: 0.12441094416905851, train acc: 95.65% (3076/3216), lr:0.001, train f1: 0.9625468164794008
+2024-03-27 17:46:33,572 - INFO - trainer - Validation
+2024-03-27 17:46:38,536 - INFO - trainer - val loss: 0.13200711435638368, val acc: 94.25% (1900/2016), val f1 score: 0.9703020993343574
+2024-03-27 17:46:38,537 - INFO - trainer - History best: 93.11 < 94.25, saving model.
+2024-03-27 17:46:38,537 - INFO - trainer - Saving model.pt to InferenceResult/2024-03-27 17:41:15/best.pt
+2024-03-27 17:46:38,646 - INFO - trainer - Training, epoch: 12/50
+2024-03-27 17:47:00,510 - INFO - trainer - train loss: 0.10957087028552503, train acc: 96.33% (3098/3216), lr:0.001, train f1: 0.9684154175588865
+2024-03-27 17:47:00,510 - INFO - trainer - Validation
+2024-03-27 17:47:05,479 - INFO - trainer - val loss: 0.1515704314224422, val acc: 93.55% (1886/2016), val f1 score: 0.9665637860082305
+2024-03-27 17:47:05,479 - INFO - trainer - Do not update 1 epoch
+2024-03-27 17:47:05,479 - INFO - trainer - Training, epoch: 13/50
+2024-03-27 17:47:27,239 - INFO - trainer - train loss: 0.1135510616734916, train acc: 96.27% (3096/3216), lr:0.001, train f1: 0.9679658302189
+2024-03-27 17:47:27,239 - INFO - trainer - Validation
+2024-03-27 17:47:32,196 - INFO - trainer - val loss: 0.11993901687674224, val acc: 95.09% (1917/2016), val f1 score: 0.9747770700636943
+2024-03-27 17:47:32,196 - INFO - trainer - History best: 94.25 < 95.09, saving model.
+2024-03-27 17:47:32,196 - INFO - trainer - Saving model.pt to InferenceResult/2024-03-27 17:41:15/best.pt
+2024-03-27 17:47:32,306 - INFO - trainer - Training, epoch: 14/50
+2024-03-27 17:47:54,055 - INFO - trainer - train loss: 0.10473502843695529, train acc: 96.49% (3103/3216), lr:0.001, train f1: 0.969810312583489
+2024-03-27 17:47:54,056 - INFO - trainer - Validation
+2024-03-27 17:47:59,024 - INFO - trainer - val loss: 0.11302923265611753, val acc: 95.63% (1928/2016), val f1 score: 0.9776081424936387
+2024-03-27 17:47:59,024 - INFO - trainer - History best: 95.09 < 95.63, saving model.
+2024-03-27 17:47:59,024 - INFO - trainer - Saving model.pt to InferenceResult/2024-03-27 17:41:15/best.pt
+2024-03-27 17:47:59,135 - INFO - trainer - Training, epoch: 15/50
+2024-03-27 17:48:20,938 - INFO - trainer - train loss: 0.09582480627532099, train acc: 96.95% (3118/3216), lr:0.001, train f1: 0.9738387613454352
+2024-03-27 17:48:20,939 - INFO - trainer - Validation
+2024-03-27 17:48:25,895 - INFO - trainer - val loss: 0.11784577067010105, val acc: 95.29% (1921/2016), val f1 score: 0.975796178343949
+2024-03-27 17:48:25,895 - INFO - trainer - Do not update 1 epoch
+2024-03-27 17:48:25,895 - INFO - trainer - Training, epoch: 16/50
+2024-03-27 17:48:47,784 - INFO - trainer - train loss: 0.08910175025755283, train acc: 96.89% (3116/3216), lr:0.001, train f1: 0.9732763228220203
+2024-03-27 17:48:47,784 - INFO - trainer - Validation
+2024-03-27 17:48:52,754 - INFO - trainer - val loss: 0.13352152577135712, val acc: 94.49% (1905/2016), val f1 score: 0.9715894548246737
+2024-03-27 17:48:52,754 - INFO - trainer - Do not update 2 epoch
+2024-03-27 17:48:52,754 - INFO - trainer - Training, epoch: 17/50
+2024-03-27 17:49:14,424 - INFO - trainer - train loss: 0.08945753483795653, train acc: 97.14% (3124/3216), lr:0.001, train f1: 0.9753879079721777
+2024-03-27 17:49:14,424 - INFO - trainer - Validation
+2024-03-27 17:49:19,378 - INFO - trainer - val loss: 0.12596032430883497, val acc: 94.84% (1912/2016), val f1 score: 0.9734287174246296
+2024-03-27 17:49:19,378 - INFO - trainer - Do not update 3 epoch
+2024-03-27 17:49:19,379 - INFO - trainer - Training, epoch: 18/50
+2024-03-27 17:49:41,102 - INFO - trainer - train loss: 0.08434448643204044, train acc: 96.98% (3119/3216), lr:0.001, train f1: 0.9740849585893667
+2024-03-27 17:49:41,102 - INFO - trainer - Validation
+2024-03-27 17:49:46,074 - INFO - trainer - val loss: 0.11463472037576139, val acc: 95.29% (1921/2016), val f1 score: 0.9757838388988019
+2024-03-27 17:49:46,074 - INFO - trainer - Do not update 4 epoch
+2024-03-27 17:49:46,075 - INFO - trainer - Training, epoch: 19/50
+2024-03-27 17:50:07,852 - INFO - trainer - train loss: 0.07990800015920517, train acc: 97.29% (3129/3216), lr:0.001, train f1: 0.9767566123430402
+2024-03-27 17:50:07,852 - INFO - trainer - Validation
+2024-03-27 17:50:12,805 - INFO - trainer - val loss: 0.10753177938750014, val acc: 95.73% (1930/2016), val f1 score: 0.9781281790437436
+2024-03-27 17:50:12,806 - INFO - trainer - History best: 95.63 < 95.73, saving model.
+2024-03-27 17:50:12,806 - INFO - trainer - Saving model.pt to InferenceResult/2024-03-27 17:41:15/best.pt
+2024-03-27 17:50:12,916 - INFO - trainer - Training, epoch: 20/50
+2024-03-27 17:50:34,692 - INFO - trainer - train loss: 0.08542607238917958, train acc: 96.86% (3115/3216), lr:0.001, train f1: 0.9730162970878974
+2024-03-27 17:50:34,692 - INFO - trainer - Validation
+2024-03-27 17:50:39,631 - INFO - trainer - val loss: 0.10834263090509921, val acc: 95.83% (1932/2016), val f1 score: 0.9786368260427264
+2024-03-27 17:50:39,631 - INFO - trainer - History best: 95.73 < 95.83, saving model.
+2024-03-27 17:50:39,631 - INFO - trainer - Saving model.pt to InferenceResult/2024-03-27 17:41:15/best.pt
+2024-03-27 17:50:39,742 - INFO - trainer - Training, epoch: 21/50
+2024-03-27 17:51:01,816 - INFO - trainer - train loss: 0.07826111213687588, train acc: 97.23% (3127/3216), lr:0.001, train f1: 0.9762856381561417
+2024-03-27 17:51:01,816 - INFO - trainer - Validation
+2024-03-27 17:51:06,760 - INFO - trainer - val loss: 0.0860159881412983, val acc: 96.88% (1953/2016), val f1 score: 0.9840949255238576
+2024-03-27 17:51:06,760 - INFO - trainer - History best: 95.83 < 96.88, saving model.
+2024-03-27 17:51:06,760 - INFO - trainer - Saving model.pt to InferenceResult/2024-03-27 17:41:15/best.pt
+2024-03-27 17:51:06,870 - INFO - trainer - Training, epoch: 22/50
+2024-03-27 17:51:28,806 - INFO - trainer - train loss: 0.06917327178605631, train acc: 97.85% (3147/3216), lr:0.001, train f1: 0.9816049053585711
+2024-03-27 17:51:28,807 - INFO - trainer - Validation
+2024-03-27 17:51:33,775 - INFO - trainer - val loss: 0.102002281579189, val acc: 95.78% (1931/2016), val f1 score: 0.9783879989829647
+2024-03-27 17:51:33,775 - INFO - trainer - Do not update 1 epoch
+2024-03-27 17:51:33,776 - INFO - trainer - Training, epoch: 23/50
+2024-03-27 17:51:55,661 - INFO - trainer - train loss: 0.07540708707243789, train acc: 97.45% (3134/3216), lr:0.001, train f1: 0.9780865847140566
+2024-03-27 17:51:55,661 - INFO - trainer - Validation
+2024-03-27 17:52:00,626 - INFO - trainer - val loss: 0.10554740770021453, val acc: 95.59% (1927/2016), val f1 score: 0.9773479256808348
+2024-03-27 17:52:00,626 - INFO - trainer - Do not update 2 epoch
+2024-03-27 17:52:00,627 - INFO - trainer - Training, epoch: 24/50
+2024-03-27 17:52:22,301 - INFO - trainer - train loss: 0.0657067871926462, train acc: 97.95% (3150/3216), lr:0.001, train f1: 0.9823529411764705
+2024-03-27 17:52:22,301 - INFO - trainer - Validation
+2024-03-27 17:52:27,259 - INFO - trainer - val loss: 0.1079595256014727, val acc: 95.54% (1926/2016), val f1 score: 0.9770875763747453
+2024-03-27 17:52:27,259 - INFO - trainer - Do not update 3 epoch
+2024-03-27 17:52:27,259 - INFO - trainer - Training, epoch: 25/50
+2024-03-27 17:52:49,207 - INFO - trainer - train loss: 0.07207620852425986, train acc: 97.33% (3130/3216), lr:0.001, train f1: 0.9770299145299145
+2024-03-27 17:52:49,207 - INFO - trainer - Validation
+2024-03-27 17:52:54,182 - INFO - trainer - val loss: 0.08469272922957316, val acc: 96.63% (1948/2016), val f1 score: 0.9827848101265823
+2024-03-27 17:52:54,182 - INFO - trainer - Do not update 4 epoch
+2024-03-27 17:52:54,182 - INFO - trainer - Training, epoch: 26/50
+2024-03-27 17:53:16,018 - INFO - trainer - train loss: 0.060757205145908336, train acc: 98.26% (3160/3216), lr:0.001, train f1: 0.9850666666666666
+2024-03-27 17:53:16,019 - INFO - trainer - Validation
+2024-03-27 17:53:20,988 - INFO - trainer - val loss: 0.09479632665170357, val acc: 96.18% (1939/2016), val f1 score: 0.9804618117229129
+2024-03-27 17:53:20,988 - INFO - trainer - Do not update 5 epoch
+2024-03-27 17:53:20,989 - INFO - trainer - Training, epoch: 27/50
+2024-03-27 17:53:42,811 - INFO - trainer - train loss: 0.06076942355025048, train acc: 98.07% (3154/3216), lr:0.001, train f1: 0.9835018626929217
+2024-03-27 17:53:42,812 - INFO - trainer - Validation
+2024-03-27 17:53:47,760 - INFO - trainer - val loss: 0.11463132867356762, val acc: 95.59% (1927/2016), val f1 score: 0.9773479256808348
+2024-03-27 17:53:47,760 - INFO - trainer - Do not update 6 epoch
+2024-03-27 17:53:47,760 - INFO - trainer - Training, epoch: 28/50
+2024-03-27 17:54:09,704 - INFO - trainer - train loss: 0.062039034477635924, train acc: 98.20% (3158/3216), lr:0.001, train f1: 0.984508547008547
+2024-03-27 17:54:09,704 - INFO - trainer - Validation
+2024-03-27 17:54:14,668 - INFO - trainer - val loss: 0.10945315100252628, val acc: 95.63% (1928/2016), val f1 score: 0.9775967413441955
+2024-03-27 17:54:14,668 - INFO - trainer - Do not update 7 epoch
+2024-03-27 17:54:14,669 - INFO - trainer - Training, epoch: 29/50
+2024-03-27 17:54:36,536 - INFO - trainer - train loss: 0.06345787856216524, train acc: 97.51% (3136/3216), lr:0.0001, train f1: 0.9786552828175026
+2024-03-27 17:54:36,537 - INFO - trainer - Validation
+2024-03-27 17:54:41,477 - INFO - trainer - val loss: 0.08455079270061105, val acc: 96.58% (1947/2016), val f1 score: 0.9825272220815396
+2024-03-27 17:54:41,478 - INFO - trainer - Do not update 8 epoch
+2024-03-27 17:54:41,478 - INFO - trainer - Training, epoch: 30/50
+2024-03-27 17:55:03,294 - INFO - trainer - train loss: 0.06020007151014665, train acc: 97.85% (3147/3216), lr:0.0001, train f1: 0.9815458678791121
+2024-03-27 17:55:03,294 - INFO - trainer - Validation
+2024-03-27 17:55:08,250 - INFO - trainer - val loss: 0.09940111369360238, val acc: 96.03% (1936/2016), val f1 score: 0.9796851193499239
+2024-03-27 17:55:08,250 - INFO - trainer - Do not update 9 epoch
+2024-03-27 17:55:08,251 - INFO - trainer - Training, epoch: 31/50
+2024-03-27 17:55:30,025 - INFO - trainer - train loss: 0.05675068090432415, train acc: 98.29% (3161/3216), lr:0.0001, train f1: 0.9852980486500936
+2024-03-27 17:55:30,026 - INFO - trainer - Validation
+2024-03-27 17:55:35,006 - INFO - trainer - val loss: 0.09478391549782827, val acc: 96.38% (1943/2016), val f1 score: 0.9814861780370276
+2024-03-27 17:55:35,006 - INFO - trainer - Do not update 10 epoch
+2024-03-27 17:55:35,006 - INFO - trainer - Training, epoch: 32/50
+2024-03-27 17:55:56,684 - INFO - trainer - train loss: 0.0709421258492797, train acc: 97.67% (3141/3216), lr:0.0001, train f1: 0.9799946652440651
+2024-03-27 17:55:56,684 - INFO - trainer - Validation
+2024-03-27 17:56:01,649 - INFO - trainer - val loss: 0.08244028635090217, val acc: 96.73% (1950/2016), val f1 score: 0.9832995951417005
+2024-03-27 17:56:01,649 - INFO - trainer - Do not update 11 epoch
+2024-03-27 17:56:01,650 - INFO - trainer - Training, epoch: 33/50
+2024-03-27 17:56:23,450 - INFO - trainer - train loss: 0.059530274613815194, train acc: 98.13% (3156/3216), lr:0.0001, train f1: 0.9839743589743589
+2024-03-27 17:56:23,450 - INFO - trainer - Validation
+2024-03-27 17:56:28,413 - INFO - trainer - val loss: 0.1009390716208145, val acc: 95.98% (1935/2016), val f1 score: 0.979415501905972
+2024-03-27 17:56:28,413 - INFO - trainer - Do not update 12 epoch
+2024-03-27 17:56:28,414 - INFO - trainer - Training, epoch: 34/50
+2024-03-27 17:56:50,224 - INFO - trainer - train loss: 0.05767652299255133, train acc: 98.20% (3158/3216), lr:0.0001, train f1: 0.9845002672367719
+2024-03-27 17:56:50,225 - INFO - trainer - Validation
+2024-03-27 17:56:55,178 - INFO - trainer - val loss: 0.09158407466020435, val acc: 96.38% (1943/2016), val f1 score: 0.9814955640050698
+2024-03-27 17:56:55,178 - INFO - trainer - Do not update 13 epoch
+2024-03-27 17:56:55,178 - INFO - trainer - Training, epoch: 35/50
+2024-03-27 17:57:16,976 - INFO - trainer - train loss: 0.055866670192164535, train acc: 98.35% (3163/3216), lr:0.0001, train f1: 0.9858402351055304
+2024-03-27 17:57:16,976 - INFO - trainer - Validation
+2024-03-27 17:57:21,931 - INFO - trainer - val loss: 0.09547298651887104, val acc: 96.23% (1940/2016), val f1 score: 0.9807204464738711
+2024-03-27 17:57:21,931 - INFO - trainer - Do not update 14 epoch
+2024-03-27 17:57:21,931 - INFO - trainer - Training, epoch: 36/50
+2024-03-27 17:57:43,800 - INFO - trainer - train loss: 0.06170104040453831, train acc: 97.57% (3138/3216), lr:0.0001, train f1: 0.9791889007470651
+2024-03-27 17:57:43,800 - INFO - trainer - Validation
+2024-03-27 17:57:48,764 - INFO - trainer - val loss: 0.09939086681697518, val acc: 96.03% (1936/2016), val f1 score: 0.9796747967479675
+2024-03-27 17:57:48,764 - INFO - trainer - Do not update 15 epoch
+2024-03-27 17:57:48,764 - INFO - trainer - Training, epoch: 37/50
+2024-03-27 17:58:10,648 - INFO - trainer - train loss: 0.06084642716336484, train acc: 97.82% (3146/3216), lr:0.0001, train f1: 0.9813233724653149
+2024-03-27 17:58:10,649 - INFO - trainer - Validation
+2024-03-27 17:58:15,606 - INFO - trainer - val loss: 0.07400337746366858, val acc: 97.22% (1960/2016), val f1 score: 0.9858657243816256
+2024-03-27 17:58:15,606 - INFO - trainer - History best: 96.88 < 97.22, saving model.
+2024-03-27 17:58:15,606 - INFO - trainer - Saving model.pt to InferenceResult/2024-03-27 17:41:15/best.pt
+2024-03-27 17:58:15,715 - INFO - trainer - Training, epoch: 38/50
+2024-03-27 17:58:37,504 - INFO - trainer - train loss: 0.05584862853820417, train acc: 98.04% (3153/3216), lr:0.0001, train f1: 0.9831865492393915
+2024-03-27 17:58:37,504 - INFO - trainer - Validation
+2024-03-27 17:58:42,481 - INFO - trainer - val loss: 0.08123138587689027, val acc: 96.73% (1950/2016), val f1 score: 0.9832995951417005
+2024-03-27 17:58:42,481 - INFO - trainer - Do not update 1 epoch
+2024-03-27 17:58:42,482 - INFO - trainer - Training, epoch: 39/50
+2024-03-27 17:59:04,282 - INFO - trainer - train loss: 0.06218407947716175, train acc: 98.04% (3153/3216), lr:0.0001, train f1: 0.9831865492393915
+2024-03-27 17:59:04,283 - INFO - trainer - Validation
+2024-03-27 17:59:09,235 - INFO - trainer - val loss: 0.07982969636213966, val acc: 96.83% (1952/2016), val f1 score: 0.9838138593829034
+2024-03-27 17:59:09,235 - INFO - trainer - Do not update 2 epoch
+2024-03-27 17:59:09,235 - INFO - trainer - Training, epoch: 40/50
+2024-03-27 17:59:31,138 - INFO - trainer - train loss: 0.05737920740948004, train acc: 98.10% (3155/3216), lr:0.0001, train f1: 0.9837116154873163
+2024-03-27 17:59:31,138 - INFO - trainer - Validation
+2024-03-27 17:59:36,080 - INFO - trainer - val loss: 0.08507927088066936, val acc: 96.58% (1947/2016), val f1 score: 0.9825272220815396
+2024-03-27 17:59:36,080 - INFO - trainer - Do not update 3 epoch
+2024-03-27 17:59:36,081 - INFO - trainer - Training, epoch: 41/50
+2024-03-27 17:59:57,913 - INFO - trainer - train loss: 0.06283748290483274, train acc: 97.76% (3144/3216), lr:0.0001, train f1: 0.9808102345415778
+2024-03-27 17:59:57,914 - INFO - trainer - Validation
+2024-03-27 18:00:02,875 - INFO - trainer - val loss: 0.08240470621967688, val acc: 96.73% (1950/2016), val f1 score: 0.9832995951417005
+2024-03-27 18:00:02,875 - INFO - trainer - Do not update 4 epoch
+2024-03-27 18:00:02,875 - INFO - trainer - Training, epoch: 42/50
+2024-03-27 18:00:24,766 - INFO - trainer - train loss: 0.06098323492515905, train acc: 98.04% (3153/3216), lr:0.0001, train f1: 0.9831955188050147
+2024-03-27 18:00:24,766 - INFO - trainer - Validation
+2024-03-27 18:00:29,746 - INFO - trainer - val loss: 0.07416455389466137, val acc: 97.07% (1957/2016), val f1 score: 0.9850972467794898
+2024-03-27 18:00:29,746 - INFO - trainer - Do not update 5 epoch
+2024-03-27 18:00:29,747 - INFO - trainer - Training, epoch: 43/50
+2024-03-27 18:00:51,590 - INFO - trainer - train loss: 0.05735363778384293, train acc: 98.01% (3152/3216), lr:0.0001, train f1: 0.98291510945008
+2024-03-27 18:00:51,590 - INFO - trainer - Validation
+2024-03-27 18:00:56,552 - INFO - trainer - val loss: 0.10403849295107648, val acc: 95.88% (1933/2016), val f1 score: 0.9789072426937739
+2024-03-27 18:00:56,555 - INFO - trainer - Do not update 6 epoch
+2024-03-27 18:00:56,555 - INFO - trainer - Training, epoch: 44/50
+2024-03-27 18:01:18,380 - INFO - trainer - train loss: 0.059390977134599406, train acc: 97.89% (3148/3216), lr:0.0001, train f1: 0.9818956336528223
+2024-03-27 18:01:18,380 - INFO - trainer - Validation
+2024-03-27 18:01:23,325 - INFO - trainer - val loss: 0.10171188152162358, val acc: 96.03% (1936/2016), val f1 score: 0.9796851193499239
+2024-03-27 18:01:23,325 - INFO - trainer - Do not update 7 epoch
+2024-03-27 18:01:23,325 - INFO - trainer - Training, epoch: 45/50
+2024-03-27 18:01:45,231 - INFO - trainer - train loss: 0.07426575848869249, train acc: 97.61% (3139/3216), lr:0.0001, train f1: 0.9793621013133208
+2024-03-27 18:01:45,232 - INFO - trainer - Validation
+2024-03-27 18:01:50,190 - INFO - trainer - val loss: 0.11168357107089832, val acc: 95.54% (1926/2016), val f1 score: 0.9770759042282221
+2024-03-27 18:01:50,190 - INFO - trainer - Do not update 8 epoch
+2024-03-27 18:01:50,191 - INFO - trainer - Training, epoch: 46/50
+2024-03-27 18:02:12,071 - INFO - trainer - train loss: 0.05949745758199224, train acc: 97.98% (3151/3216), lr:0.0001, train f1: 0.9827081670657088
+2024-03-27 18:02:12,071 - INFO - trainer - Validation
+2024-03-27 18:02:17,017 - INFO - trainer - val loss: 0.09932968561770394, val acc: 96.13% (1938/2016), val f1 score: 0.9801929913661758
+2024-03-27 18:02:17,017 - INFO - trainer - Do not update 9 epoch
+2024-03-27 18:02:17,017 - INFO - trainer - Training, epoch: 47/50
+2024-03-27 18:02:38,736 - INFO - trainer - train loss: 0.054514959892805886, train acc: 98.32% (3162/3216), lr:0.0001, train f1: 0.9856153436334576
+2024-03-27 18:02:38,737 - INFO - trainer - Validation
+2024-03-27 18:02:43,699 - INFO - trainer - val loss: 0.09147551999194548, val acc: 96.38% (1943/2016), val f1 score: 0.9814955640050698
+2024-03-27 18:02:43,700 - INFO - trainer - Do not update 10 epoch
+2024-03-27 18:02:43,700 - INFO - trainer - Training, epoch: 48/50
+2024-03-27 18:03:05,517 - INFO - trainer - train loss: 0.061384784422960935, train acc: 98.04% (3153/3216), lr:0.0001, train f1: 0.9831775700934579
+2024-03-27 18:03:05,518 - INFO - trainer - Validation
+2024-03-27 18:03:10,480 - INFO - trainer - val loss: 0.06769077104399912, val acc: 97.62% (1968/2016), val f1 score: 0.9879093198992444
+2024-03-27 18:03:10,480 - INFO - trainer - History best: 97.22 < 97.62, saving model.
+2024-03-27 18:03:10,480 - INFO - trainer - Saving model.pt to InferenceResult/2024-03-27 17:41:15/best.pt
+2024-03-27 18:03:10,589 - INFO - trainer - Training, epoch: 49/50
+2024-03-27 18:03:32,461 - INFO - trainer - train loss: 0.051970400354441476, train acc: 98.01% (3152/3216), lr:0.0001, train f1: 0.9829424307036247
+2024-03-27 18:03:32,461 - INFO - trainer - Validation
+2024-03-27 18:03:37,413 - INFO - trainer - val loss: 0.08677751384675503, val acc: 96.63% (1948/2016), val f1 score: 0.9827848101265823
+2024-03-27 18:03:37,413 - INFO - trainer - Do not update 1 epoch
+2024-03-27 18:03:37,734 - INFO - trainer - Saving model.pt to InferenceResult/2024-03-27 17:41:15/last.pt
+2024-03-27 18:03:37,807 - INFO - trainer - testing
+2024-03-27 18:03:39,990 - INFO - trainer - testing acc: 89.42307692307693% (558/624), f1 score: 0.9214285714285715

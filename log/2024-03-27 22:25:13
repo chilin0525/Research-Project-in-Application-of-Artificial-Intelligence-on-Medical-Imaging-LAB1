@@ -1,0 +1,3 @@
+2024-03-27 22:25:14,042 - INFO - trainer - Load model from: InferenceResult/2024-03-27 21:49:27/last.pt
+2024-03-27 22:25:14,079 - INFO - trainer - testing
+2024-03-27 22:25:17,258 - INFO - trainer - testing acc: 90.86538461538461% (567/624), f1 score: 0.9304029304029305

@@ -8,11 +8,13 @@ import pandas as pd
 import os
 
 
-def seed_everything(seed: int = 1):
+def seed_everything(seed: int = 0):
     torch.manual_seed(seed)
     torch.cuda.manual_seed(seed)
     np.random.seed(seed)
     random.seed(seed)
+
+seed_everything()
 
 # using current time as file name
 exp_name = datetime.now()
@@ -20,19 +22,24 @@ exp_name = exp_name.strftime("%Y-%m-%d %H:%M:%S")
 
 args = {
     "exp_name": exp_name,
-    "data_root_dir": 'chest_xray',
+    "data_root_dir": 'custom_chest_xray_balance',
     "inference_result_folder": "InferenceResult",
     "img_size": 256,
     "device": 0,
     "num_workers": 8,
-    "epochs": 30,
-    "batch_size": 128,
+    "epochs": 300,
+    "batch_size": 64,
     "network": "resnet18",
     "lr": 0.001,
 
     "is_RandomRotation": True,
     "is_RandomHorizontalFlip": True,
-    "is_GaussianBlur": True,
+    "is_RandomResizedCrop": True,
+    "is_GaussianBlur": False,
+    "is_RandomPerspective": False,
+    "is_CenterCrop": False,
+
+    "patience": 50
 }
 
 pneumonia_trainer = PneumoniaTrainer(**args)
@@ -48,7 +55,7 @@ df = pd.DataFrame({
     "valid_loss": [pneumonia_trainer.valid_loss],
     "valid_acc": [pneumonia_trainer.valid_acc],
     "test_acc": [test_acc],
-    "lr": [pneumonia_trainer.lr]
+    "lr": [pneumonia_trainer.lr_record]
 })
 
 exp_record_path = 'ExpRecord.csv'
