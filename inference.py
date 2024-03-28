@@ -27,7 +27,8 @@ args = {
     "num_workers": 8,
     "epochs": 100,
     "batch_size": 64,
-    "model_weight": "InferenceResult/2024-03-28 09:50:49/best.pt",
+    # "model_weight": "InferenceResult/2024-03-28 09:50:49/best.pt",
+    "model_weight": "best.pt",
 }
 
 pneumonia_trainer = PneumoniaTrainer(**args)
